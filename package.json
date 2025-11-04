@@ -2,6 +2,7 @@
   "name": "indian-coffeehouse-react",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://him12.github.io/new-menu-code/",
   "type": "module",
   "scripts": {
     "dev": "vite",
